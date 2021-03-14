@@ -1,0 +1,12 @@
+{
+  "name": "CoverNubank",
+  "displayName": "CoverNubank",
+  "expo": {
+    "name": "CoverNubank",
+    "slug": "CoverNubank",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
